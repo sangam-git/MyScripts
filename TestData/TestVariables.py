@@ -2,7 +2,7 @@ import selenium
 from selenium import webdriver
 
 
-class ClassTestVariables():
+class ClassTestVariables:
     CHROME_PATH = "../Browsers/chromedriver.exe"
     URL = "https://entity.nousinfo.com/commonlogin/Login.aspx"
     Username = "NST21501"
