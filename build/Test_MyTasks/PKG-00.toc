@@ -1,0 +1,196 @@
+('C:\\Users\\Sangamesh '
+ 'Hiremath\\Desktop\\PycharmProjects\\build\\Test_MyTasks\\Test_MyTasks.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True,
+  'SYMLINK': False},
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   'C:\\Users\\Sangamesh '
+   'Hiremath\\Desktop\\PycharmProjects\\build\\Test_MyTasks\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\Sangamesh '
+   'Hiremath\\Desktop\\PycharmProjects\\build\\Test_MyTasks\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\Users\\Sangamesh '
+   'Hiremath\\Desktop\\PycharmProjects\\build\\Test_MyTasks\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\Users\\Sangamesh '
+   'Hiremath\\Desktop\\PycharmProjects\\build\\Test_MyTasks\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\Users\\Sangamesh '
+   'Hiremath\\Desktop\\PycharmProjects\\build\\Test_MyTasks\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'C:\\Users\\Sangamesh '
+   'Hiremath\\Desktop\\PycharmProjects\\build\\Test_MyTasks\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Users\\Sangamesh '
+   'Hiremath\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\Sangamesh '
+   'Hiremath\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'C:\\Users\\Sangamesh '
+   'Hiremath\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'C:\\Users\\Sangamesh '
+   'Hiremath\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgres',
+   'C:\\Users\\Sangamesh '
+   'Hiremath\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgres.py',
+   'PYSOURCE'),
+  ('Test_MyTasks',
+   'C:\\Users\\Sangamesh '
+   'Hiremath\\Desktop\\PycharmProjects\\Entity\\TestCases\\Test_MyTasks.py',
+   'PYSOURCE'),
+  ('python311.dll',
+   'C:\\Users\\Sangamesh '
+   'Hiremath\\AppData\\Local\\Programs\\Python\\Python311\\python311.dll',
+   'BINARY'),
+  ('select.pyd',
+   'C:\\Users\\Sangamesh '
+   'Hiremath\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_lzma.pyd',
+   'C:\\Users\\Sangamesh '
+   'Hiremath\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2.pyd',
+   'C:\\Users\\Sangamesh '
+   'Hiremath\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('_decimal.pyd',
+   'C:\\Users\\Sangamesh '
+   'Hiremath\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_ssl.pyd',
+   'C:\\Users\\Sangamesh '
+   'Hiremath\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('_socket.pyd',
+   'C:\\Users\\Sangamesh '
+   'Hiremath\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_hashlib.pyd',
+   'C:\\Users\\Sangamesh '
+   'Hiremath\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('unicodedata.pyd',
+   'C:\\Users\\Sangamesh '
+   'Hiremath\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('_ctypes.pyd',
+   'C:\\Users\\Sangamesh '
+   'Hiremath\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('_queue.pyd',
+   'C:\\Users\\Sangamesh '
+   'Hiremath\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_queue.pyd',
+   'EXTENSION'),
+  ('pyexpat.pyd',
+   'C:\\Users\\Sangamesh '
+   'Hiremath\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('_multiprocessing.pyd',
+   'C:\\Users\\Sangamesh '
+   'Hiremath\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_multiprocessing.pyd',
+   'EXTENSION'),
+  ('_overlapped.pyd',
+   'C:\\Users\\Sangamesh '
+   'Hiremath\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_overlapped.pyd',
+   'EXTENSION'),
+  ('_asyncio.pyd',
+   'C:\\Users\\Sangamesh '
+   'Hiremath\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_asyncio.pyd',
+   'EXTENSION'),
+  ('_uuid.pyd',
+   'C:\\Users\\Sangamesh '
+   'Hiremath\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_uuid.pyd',
+   'EXTENSION'),
+  ('_elementtree.pyd',
+   'C:\\Users\\Sangamesh '
+   'Hiremath\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_elementtree.pyd',
+   'EXTENSION'),
+  ('charset_normalizer\\md__mypyc.cp311-win_amd64.pyd',
+   'C:\\Users\\Sangamesh '
+   'Hiremath\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\charset_normalizer\\md__mypyc.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('charset_normalizer\\md.cp311-win_amd64.pyd',
+   'C:\\Users\\Sangamesh '
+   'Hiremath\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\charset_normalizer\\md.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('VCRUNTIME140.dll',
+   'C:\\Users\\Sangamesh '
+   'Hiremath\\AppData\\Local\\Programs\\Python\\Python311\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('libssl-1_1.dll',
+   'C:\\Users\\Sangamesh '
+   'Hiremath\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\libssl-1_1.dll',
+   'BINARY'),
+  ('libcrypto-1_1.dll',
+   'C:\\Users\\Sangamesh '
+   'Hiremath\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\libcrypto-1_1.dll',
+   'BINARY'),
+  ('libffi-8.dll',
+   'C:\\Users\\Sangamesh '
+   'Hiremath\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\libffi-8.dll',
+   'BINARY'),
+  ('base_library.zip',
+   'C:\\Users\\Sangamesh '
+   'Hiremath\\Desktop\\PycharmProjects\\build\\Test_MyTasks\\base_library.zip',
+   'DATA'),
+  ('certifi\\cacert.pem',
+   'C:\\Users\\Sangamesh '
+   'Hiremath\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\certifi\\cacert.pem',
+   'DATA'),
+  ('certifi\\py.typed',
+   'C:\\Users\\Sangamesh '
+   'Hiremath\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\certifi\\py.typed',
+   'DATA'),
+  ('selenium\\webdriver\\firefox\\webdriver_prefs.json',
+   'C:\\Users\\Sangamesh '
+   'Hiremath\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\selenium\\webdriver\\firefox\\webdriver_prefs.json',
+   'DATA'),
+  ('selenium\\webdriver\\firefox\\amd64\\x_ignore_nofocus.so',
+   'C:\\Users\\Sangamesh '
+   'Hiremath\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\selenium\\webdriver\\firefox\\amd64\\x_ignore_nofocus.so',
+   'DATA'),
+  ('selenium\\webdriver\\remote\\isDisplayed.js',
+   'C:\\Users\\Sangamesh '
+   'Hiremath\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\selenium\\webdriver\\remote\\isDisplayed.js',
+   'DATA'),
+  ('selenium\\webdriver\\firefox\\x86\\x_ignore_nofocus.so',
+   'C:\\Users\\Sangamesh '
+   'Hiremath\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\selenium\\webdriver\\firefox\\x86\\x_ignore_nofocus.so',
+   'DATA'),
+  ('selenium\\webdriver\\remote\\getAttribute.js',
+   'C:\\Users\\Sangamesh '
+   'Hiremath\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\selenium\\webdriver\\remote\\getAttribute.js',
+   'DATA'),
+  ('selenium\\webdriver\\firefox\\webdriver.xpi',
+   'C:\\Users\\Sangamesh '
+   'Hiremath\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\selenium\\webdriver\\firefox\\webdriver.xpi',
+   'DATA')],
+ 'python311.dll',
+ False,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
