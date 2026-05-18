@@ -1,0 +1,60 @@
+# Credentials and sensitive data
+TestVariables.py
+**/TestVariables.py
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Testing
+.pytest_cache/
+test-results/
+Results/
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Drivers and binaries
+*.exe
+chromedriver*
+msedgedriver*
+Browsers/
+.cache/
+
+# Environment
+venv/
+env/
+ENV/
+
+# Local development
+*.bak
+*.tmp
+local_config.py
+
